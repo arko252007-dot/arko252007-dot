@@ -53,6 +53,7 @@ I am a passionate **BCA Student** and **Developer** who loves building things fo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnendu&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" width="60%" />
 </p>
+
 ---
 
 ## 🤝 Let's Connect!

@@ -46,12 +46,12 @@ I am a passionate **BCA Student** and **Developer** who loves building things fo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnendu&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnendu&theme=dracula&border_radius=10" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arko252007-dot&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arko252007-dot&theme=dracula&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnendu&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arko252007-dot&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" width="60%" />
 </p>
 
 ---
